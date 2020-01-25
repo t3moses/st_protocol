@@ -1,0 +1,10 @@
+name=st_protocol
+version=1.0.0
+author=TimMoses
+maintainer=TimMoses
+sentence=Seatalk library on Arduino.
+paragraph=
+category=Communication
+url=https://github.com/t3moses/Seatalk
+architectures=avr
+includes=st_protocol.h

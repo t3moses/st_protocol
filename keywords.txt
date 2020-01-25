@@ -1,0 +1,16 @@
+# -----------------------------------------
+# Syntax colouring
+# -----------------------------------------
+
+# Datatypes (such as objects)
+st_protocol	KEYWORD1
+
+#Methods / functions
+begin	KEYWORD2
+send_sentence	KEYWORD2
+load_sentence	KEYWORD2
+tx_buffer_empty	KEYWORD2
+rx_buffer_full	KEYWORD2
+
+# Constants
+MAX_SENTENCE_SIZE	LITERAL1
